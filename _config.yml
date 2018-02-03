@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: sainadh jamalpur
+bio: A Man who travels the world in dreams
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about full of infosec related stuff
 
 # if it's an external image, update below for true
 # better with square images
@@ -50,17 +50,17 @@ github: mygithub
 medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: sainadhjamalpur@gmail.com
 
 authors:
     johndoe:
-        name: John Doe
-        bio: A Man who travels the world eating noodles
+        name: Sainadh jamalpur
+        bio: A Man who travels the world in dreams
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: @ThisIsSnj
     jamesfoster:
-        name: James Foster
+        name: Sainadh jamalpur
         bio: A Man who develops software with coffee
         external-image: false
         picture: assets/images/james.jpg
