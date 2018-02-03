@@ -2,7 +2,7 @@
 title: "Machine learning in cyber security Enhances security to the next level"
 layout: post
 date: 2017-09-07 22:48
-image: /assets/images/markdown.jpg
+image: /assets/images/machinelearning.png
 headerImage: false
 tag:
 - machine learning
