@@ -53,18 +53,12 @@ medium: medium
 email: sainadhjamalpur@gmail.com
 
 authors:
-    johndoe:
+    Sainadh jamalpur:
         name: Sainadh jamalpur
         bio: A Man who travels the world in dreams
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: @ThisIsSnj
-    jamesfoster:
-        name: Sainadh jamalpur
-        bio: A Man who develops software with coffee
-        external-image: false
-        picture: assets/images/james.jpg
-        twitter: jamesfoster
+        twitter: ThisIsSnj
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
